@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <string>1T</string>
+  <string>2G</string> 
+  <string>3G</string>
+  <string>4L</string>
+  <string>5D</string>
+  <string>6G</string>
+  <string>7E</string>
+  <string>8D</string>
+</ArrayOfString>
